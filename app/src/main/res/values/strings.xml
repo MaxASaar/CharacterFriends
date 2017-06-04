@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CharacterFriends</string>
+    <string name="l1_title">Lesson 1 - 你好</string>
+    <string name="l2_title">Lesson 2 - 你忙吗</string>
+    <string name="l3_title">Lesson 3 - 她是哪国人</string>
+    <string name="l4_title">Lesson 4 - 认识你很高兴</string>
+    <string name="l5_title">Lesson 5 - 餐厅在哪儿</string>
+    <string name="l6_title">Lesson 6 - 我们去游泳好吗</string>
+    <string name="l7_title">Lesson 7 - 你认识不认识他</string>
+    <string name="l8_title">Lesson 8 - 你们家有几口人</string>
+    <string name="l9_title">Lesson 9 - 他今年二十岁</string>
+    <string name="l10_title">Lesson 10 - 我在这儿买</string>
+
+</resources>
